@@ -21,7 +21,8 @@ I love to cope with tasks that others find overwhelming. I love it when the resu
 ---
 
 ### Code example
-```<h1>Hello RS School</h1>```  
+```<h1>Hello RS School</h1>```
+
 ---
 ### Education
 * SFEDU, ecology (batchelor)
